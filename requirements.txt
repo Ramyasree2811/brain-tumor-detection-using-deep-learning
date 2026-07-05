@@ -1,0 +1,14 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+Pillow
+seaborn
+tqdm
+h5py
+jupyter
+notebook
